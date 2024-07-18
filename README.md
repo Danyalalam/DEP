@@ -19,6 +19,4 @@ The project explores and implements various regression models to predict house p
 - Model Building and Training: Training models like Linear Regression, Decision Trees, and Random Forest.
 - Model Evaluation: Comparing model performance using metrics such as MAE, RMSE, and R² score.
 
-## Results
-After training several models, the best-performing model achieves the following metrics:
 
